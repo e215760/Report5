@@ -10,11 +10,11 @@ public class Main {
             System.out.println("条件3 : " +e.getMessage());
         }
         */
-        //String str = "百二十三";
+        String str = "百二十三";
         //Integer.parseInt(str);
-        String str = "123";
+        //String str = "123";
         //Integer.parseInt(str);
-        System.out.println(str.getClass().getSimpleName());
+        //System.out.println(str.getClass().getSimpleName());
         System.out.println(Integer.parseInt(str));
         
         
